@@ -9,7 +9,7 @@ namespace LabControl
     class Lab1
     {
 
-        private void Exercise1()
+        public static void Exercise1()
         {
             Console.WriteLine(".NET console application has been set up");
         }
@@ -19,9 +19,9 @@ namespace LabControl
             Console.WriteLine("Hello World");
         }
 
-        private void Exercise3()
+        public static void Exercise3()
         {
-            Console.WriteLine("Hello Mum");
+            Console.WriteLine("Exercise 3 is here.");
         }
       
     }

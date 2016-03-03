@@ -6,13 +6,16 @@ using System.Threading.Tasks;
 
 namespace LabControl
 {
-    class Program
+    class LabHome
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Git");
             Console.WriteLine("Successfully installed Git");
 
+            Lab1.Exercise1();
+
+            Lab1.Exercise3();
         }
     }
 }
