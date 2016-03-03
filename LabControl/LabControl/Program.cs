@@ -11,6 +11,7 @@ namespace LabControl
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Git");
+            Console.WriteLine("Successfully installed Git");
 
         }
     }
