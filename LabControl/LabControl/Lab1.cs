@@ -6,8 +6,19 @@ using System.Threading.Tasks;
 
 namespace LabControl
 {
-    class Lab1
+
+
+    class Program
     {
+
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello Git");
+            Console.WriteLine("Successfully installed Git");
+
+            Exercise1();
+            
+        }
 
         private void Exercise1()
         {
