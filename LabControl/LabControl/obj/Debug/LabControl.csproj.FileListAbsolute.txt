@@ -1,0 +1,2 @@
+c:\source\LabControl\LabControl\bin\Debug\LabControl.exe.config
+C:\MasseySource\LabControl\LabControl\bin\Debug\LabControl.exe.config
