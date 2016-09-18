@@ -1,0 +1,5 @@
+c:\users\hugh\documents\visual studio 2015\Projects\StrategyPattern\StrategyLibrary\bin\Debug\StrategyLibrary.dll
+c:\users\hugh\documents\visual studio 2015\Projects\StrategyPattern\StrategyLibrary\bin\Debug\StrategyLibrary.pdb
+c:\users\hugh\documents\visual studio 2015\Projects\StrategyPattern\StrategyLibrary\obj\Debug\StrategyLibrary.csprojResolveAssemblyReference.cache
+c:\users\hugh\documents\visual studio 2015\Projects\StrategyPattern\StrategyLibrary\obj\Debug\StrategyLibrary.dll
+c:\users\hugh\documents\visual studio 2015\Projects\StrategyPattern\StrategyLibrary\obj\Debug\StrategyLibrary.pdb

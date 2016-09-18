@@ -1,0 +1,7 @@
+c:\users\hugh\documents\visual studio 2015\Projects\DecoupledGUIProject\DecoupledGUIProject\bin\Debug\DecoupledGUIProject.exe.config
+c:\users\hugh\documents\visual studio 2015\Projects\DecoupledGUIProject\DecoupledGUIProject\obj\Debug\DecoupledGUIProject.csprojResolveAssemblyReference.cache
+c:\users\hugh\documents\visual studio 2015\Projects\DecoupledGUIProject\DecoupledGUIProject\obj\Debug\DecoupledGUIProject.Properties.Resources.resources
+c:\users\hugh\documents\visual studio 2015\Projects\DecoupledGUIProject\DecoupledGUIProject\obj\Debug\DecoupledDLL.WeatherPublisher.resources
+c:\users\hugh\documents\visual studio 2015\Projects\DecoupledGUIProject\DecoupledGUIProject\obj\Debug\DecoupledDLL.WeatherSubscriber1.resources
+c:\users\hugh\documents\visual studio 2015\Projects\DecoupledGUIProject\DecoupledGUIProject\obj\Debug\DecoupledDLL.WeatherSubscriber2.resources
+c:\users\hugh\documents\visual studio 2015\Projects\DecoupledGUIProject\DecoupledGUIProject\obj\Debug\DecoupledGUIProject.csproj.GenerateResource.Cache

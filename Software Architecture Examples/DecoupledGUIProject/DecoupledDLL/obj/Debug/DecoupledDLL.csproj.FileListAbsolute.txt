@@ -1,0 +1,5 @@
+c:\users\hugh\documents\visual studio 2015\Projects\DecoupledGUIProject\DecoupledDLL\bin\Debug\DecoupledDLL.dll
+c:\users\hugh\documents\visual studio 2015\Projects\DecoupledGUIProject\DecoupledDLL\bin\Debug\DecoupledDLL.pdb
+c:\users\hugh\documents\visual studio 2015\Projects\DecoupledGUIProject\DecoupledDLL\obj\Debug\DecoupledDLL.csprojResolveAssemblyReference.cache
+c:\users\hugh\documents\visual studio 2015\Projects\DecoupledGUIProject\DecoupledDLL\obj\Debug\DecoupledDLL.dll
+c:\users\hugh\documents\visual studio 2015\Projects\DecoupledGUIProject\DecoupledDLL\obj\Debug\DecoupledDLL.pdb

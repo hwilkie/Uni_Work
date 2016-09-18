@@ -1,0 +1,11 @@
+c:\users\hugh\documents\visual studio 2015\Projects\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.exe.config
+c:\users\hugh\documents\visual studio 2015\Projects\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.csprojResolveAssemblyReference.cache
+c:\users\hugh\documents\visual studio 2015\Projects\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.main.resources
+c:\users\hugh\documents\visual studio 2015\Projects\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.Properties.Resources.resources
+c:\users\hugh\documents\visual studio 2015\Projects\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.csproj.GenerateResource.Cache
+c:\users\hugh\documents\visual studio 2015\Projects\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.exe
+c:\users\hugh\documents\visual studio 2015\Projects\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.pdb
+c:\users\hugh\documents\visual studio 2015\Projects\StrategyPattern\StrategyPattern\bin\Debug\StrategyLibrary.dll
+c:\users\hugh\documents\visual studio 2015\Projects\StrategyPattern\StrategyPattern\bin\Debug\StrategyLibrary.pdb
+c:\users\hugh\documents\visual studio 2015\Projects\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.exe
+c:\users\hugh\documents\visual studio 2015\Projects\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.pdb
