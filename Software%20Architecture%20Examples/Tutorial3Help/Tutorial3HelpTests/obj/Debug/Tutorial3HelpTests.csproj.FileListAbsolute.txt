@@ -1,0 +1,8 @@
+c:\users\hugh\documents\visual studio 2015\Projects\Tutorial3Help\Tutorial3HelpTests\bin\Debug\Tutorial3HelpTests.dll
+c:\users\hugh\documents\visual studio 2015\Projects\Tutorial3Help\Tutorial3HelpTests\bin\Debug\Tutorial3HelpTests.pdb
+c:\users\hugh\documents\visual studio 2015\Projects\Tutorial3Help\Tutorial3HelpTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\hugh\documents\visual studio 2015\Projects\Tutorial3Help\Tutorial3HelpTests\bin\Debug\Tutorial3Help.dll
+c:\users\hugh\documents\visual studio 2015\Projects\Tutorial3Help\Tutorial3HelpTests\bin\Debug\Tutorial3Help.pdb
+c:\users\hugh\documents\visual studio 2015\Projects\Tutorial3Help\Tutorial3HelpTests\obj\Debug\Tutorial3HelpTests.csprojResolveAssemblyReference.cache
+c:\users\hugh\documents\visual studio 2015\Projects\Tutorial3Help\Tutorial3HelpTests\obj\Debug\Tutorial3HelpTests.dll
+c:\users\hugh\documents\visual studio 2015\Projects\Tutorial3Help\Tutorial3HelpTests\obj\Debug\Tutorial3HelpTests.pdb

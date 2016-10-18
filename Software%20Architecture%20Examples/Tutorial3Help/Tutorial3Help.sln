@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial3Help", "Tutorial3Help\Tutorial3Help.csproj", "{141E6147-86B9-43BD-9AE3-B9502C31EFCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial3HelpTests", "Tutorial3HelpTests\Tutorial3HelpTests.csproj", "{3584DC58-5D19-4958-9075-A993790CD301}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{141E6147-86B9-43BD-9AE3-B9502C31EFCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{141E6147-86B9-43BD-9AE3-B9502C31EFCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{141E6147-86B9-43BD-9AE3-B9502C31EFCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{141E6147-86B9-43BD-9AE3-B9502C31EFCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3584DC58-5D19-4958-9075-A993790CD301}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3584DC58-5D19-4958-9075-A993790CD301}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3584DC58-5D19-4958-9075-A993790CD301}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3584DC58-5D19-4958-9075-A993790CD301}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

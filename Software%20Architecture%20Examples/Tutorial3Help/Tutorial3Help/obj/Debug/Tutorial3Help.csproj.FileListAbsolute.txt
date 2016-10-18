@@ -1,0 +1,5 @@
+c:\users\hugh\documents\visual studio 2015\Projects\Tutorial3Help\Tutorial3Help\bin\Debug\Tutorial3Help.dll
+c:\users\hugh\documents\visual studio 2015\Projects\Tutorial3Help\Tutorial3Help\bin\Debug\Tutorial3Help.pdb
+c:\users\hugh\documents\visual studio 2015\Projects\Tutorial3Help\Tutorial3Help\obj\Debug\Tutorial3Help.csprojResolveAssemblyReference.cache
+c:\users\hugh\documents\visual studio 2015\Projects\Tutorial3Help\Tutorial3Help\obj\Debug\Tutorial3Help.dll
+c:\users\hugh\documents\visual studio 2015\Projects\Tutorial3Help\Tutorial3Help\obj\Debug\Tutorial3Help.pdb
